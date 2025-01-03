@@ -33,7 +33,7 @@ export default function Footer() {
               <li>123 Business Street</li>
               <li>Tech City, 12345</li>
               <li>Phone: +91 9876543210</li>
-              <li>Email: info@spectacom.in</li>
+              <li>Email: abishek.agarwal@spectacom.in</li>
             </ul>
           </div>
         </div>

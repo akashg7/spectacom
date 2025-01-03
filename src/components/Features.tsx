@@ -1,4 +1,3 @@
-import React from 'react';
 import { Activity, Target, Ticket, Heart, Building, Film } from 'lucide-react';
 
 const features = [
