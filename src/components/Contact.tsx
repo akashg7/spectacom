@@ -60,7 +60,7 @@ export default function Contact() {
               <Mail className="w-6 h-6 text-blue-600 mt-1" />
               <div>
                 <h3 className="text-xl font-semibold mb-2">Email</h3>
-                <p className="text-gray-600">info@spectacom.in</p>
+                <p className="text-gray-600">abishek.agarwal@spectacom.in</p>
               </div>
             </div>
           </div>
